@@ -1,0 +1,51 @@
+/* Atur tampilan halaman */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(104, 211, 218, 1);
+    
+}
+
+/* Atur tampilan header */
+header {
+    background-color: #333;
+    color: rgb(122, 247, 255, 1);
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 50px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+}
+
+nav ul li a {
+    color: rgb(221, 253, 255);
+    text-decoration: none;
+}
+
+/* Atur tampilan setiap bagian (section) */
+section {
+    padding: 20px;
+}
+
+section h2 {
+    margin-top: 20px;
+}
+
+/* Atur tampilan footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
